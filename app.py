@@ -222,5 +222,3 @@ def projetos():
 	
 	
 
-
-app.run(debug= "True")
